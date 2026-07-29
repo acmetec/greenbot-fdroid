@@ -1,7 +1,8 @@
-# GREENBOT F-Droid repository
+# ACMETEC ROBOS test F-Droid repository
 
-This public repository contains only signed GREENBOT Android APKs and the
-generated F-Droid indexes. The application source code is not published here.
+This public repository contains signed test APKs for the legacy GREENBOT app,
+the ACMETEC multimodel customer app, GREENBOT DEV, and WAREBOT DEV, plus the
+generated F-Droid indexes. Application source code is not published here.
 
 Repository URL:
 
